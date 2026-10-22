@@ -1,0 +1,8 @@
+Auditoria de cenas e prefabs
+PASS: Referências dos gerenciadores e HUD
+PASS: Cena carregada: GameArena
+PASS: Cena carregada: MainMenu
+PASS: Animator do prefab Player
+PASS: Referência do projétil no jogador
+PASS: Animator do prefab Skeleton
+PASS: Missing Scripts: 0

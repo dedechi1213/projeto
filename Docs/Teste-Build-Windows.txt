@@ -1,0 +1,6 @@
+Verificação da build Windows — Parte 2
+PASS: Build StandaloneWindows64 concluída com resultado Succeeded.
+PASS: Executável iniciou uma janela Crypt Survivor.
+PASS: Engine, assemblies e sistema de input inicializaram; nenhum erro ou exceção encontrado no Player.log durante essa abertura.
+PASS: Aplicação encerrou por Alt+F4 após a verificação.
+LIMITAÇÃO: A captura nativa da janela falhou por timeout. Não foi verificado o clique SAIR na build, nem uma partida manual completa. O botão SAIR foi exercitado pelo EventSystem no Editor; o ramo Windows usa Application.Quit().

@@ -1,0 +1,19 @@
+Crypt Survivor — verificações em Play Mode
+PASS: Jogador inicia com 100 HP
+PASS: Cinco esqueletos de teste
+PASS: Piso e paredes em Tilemaps
+PASS: Esqueleto persegue jogador com física
+PASS: Projétil acerta e causa 25 de dano
+PASS: Projétil é removido no impacto
+PASS: Disparo não atinge o próprio jogador
+PASS: Morte desativa colisão e ataque do esqueleto
+PASS: Animação de morte é reproduzida
+PASS: Evento de morte emitido uma vez
+PASS: Inimigo morto ignora dano adicional
+PASS: Colisor da parede impede saída da arena
+PASS: Esqueleto removido após animação
+PASS: Contato aplica dano
+PASS: Intervalo impede dano a cada frame
+PASS: Projétil expira sem impacto
+PASS: Vida limitada a zero e eventos únicos
+PASS: Morte desativa controles e informa GameManager

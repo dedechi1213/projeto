@@ -1,0 +1,46 @@
+Crypt Survivor — validação completa em Play Mode
+PASS: Menu inicial com EventSystem
+PASS: MainMenu e GameArena configuradas na build
+PASS: Botão conectado: Play
+PASS: Mouse alcança o botão: Play
+PASS: JOGAR carrega GameArena
+PASS: Nova partida: vida 100 e pontos zero
+PASS: Onda 1 gera exatamente cinco esqueletos
+PASS: Nascimento longe do jogador e dentro dos limites
+PASS: Begin repetido não duplica a onda
+PASS: HUD inicial conectado
+PASS: HUD deixa clique na arena livre para disparar
+PASS: Textos não bloqueiam mouse
+PASS: Morte concede exatamente 100 pontos uma vez e atualiza HUD
+PASS: Dano atualiza barra e número imediatamente
+PASS: Onda não avança com um inimigo vivo
+PASS: Intervalo entre ondas sem geração simultânea
+PASS: Onda 2 gera exatamente oito; pontuação 500
+PASS: Indicador e anúncio da segunda onda
+PASS: Onda 3 gera exatamente doze; pontuação 1300
+PASS: Indicador e anúncio da onda final
+PASS: Vitória aguarda o último esqueleto
+PASS: Vitória após 25 mortes e exatamente 2500 pontos
+PASS: Painel de vitória mostra pontuação final
+PASS: Vitória desativa movimento e disparo
+PASS: Vitória e derrota mutuamente exclusivas; dano bloqueado
+PASS: Botão conectado: Replay
+PASS: Mouse alcança o botão: Replay
+PASS: Jogar novamente reinicia vida, ondas, inimigos e pontuação
+PASS: Reinício não duplica gerenciadores
+PASS: Reinício não acumula assinaturas de pontuação
+PASS: Vida zero encerra ondas em Game Over
+PASS: Derrota mostra pontos e botão correto
+PASS: Derrota interrompe todos os controles e inimigos
+PASS: Após derrota: sem vitória, novos pontos, dano ou disparos
+PASS: Nenhuma onda gerada após derrota
+PASS: Botão conectado: Replay
+PASS: Mouse alcança o botão: Replay
+PASS: Tentar novamente reinicia integralmente
+PASS: Botão conectado: MainMenu
+PASS: Mouse alcança o botão: MainMenu
+PASS: Menu principal limpa objetos da partida
+PASS: Nenhum erro ou exceção durante os testes de execução
+PASS: Botão conectado: Quit
+PASS: Mouse alcança o botão: Quit
+PASS: Botão SAIR encerrou o Play Mode no Editor
